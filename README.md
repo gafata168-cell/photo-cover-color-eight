@@ -63,4 +63,4 @@
 
 ![书生封面Skill交流群](contact-group.png)
 
-当前群码标注 **2026年10月3日前有效**。失效时请到[工具与教程合集](https://my.feishu.cn/wiki/SAsPwn7j9iAZxkkJBWVcM80OnSd)查看最新入口。使用问题可在 Issues 中附平台、模型及具体问题。当前使用公共交流群，俱乐部入口后续另行更新。
+当前群码标注 **2026年10月10日前有效**。失效时请到[工具与教程合集](https://my.feishu.cn/wiki/SAsPwn7j9iAZxkkJBWVcM80OnSd)查看最新入口。使用问题可在 Issues 中附平台、模型及具体问题。当前使用公共交流群，俱乐部入口后续另行更新。
